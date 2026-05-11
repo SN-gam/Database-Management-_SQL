@@ -1,2 +1,1 @@
-# Database-Management-_SQL
 
